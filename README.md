@@ -4,7 +4,7 @@ Hi 👋 My name is Nikita Anna Ajith
 I'm a Btech CSE student.
 ------------------------
 
-Currently exploring Full Stack Web devolopment
+Currently exploring Data Science
 
 
 *   ⚡  Like Coding and interested to expand my knowledge in it!
